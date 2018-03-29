@@ -1,0 +1,12 @@
+export const blue = '#5876A2';
+export const blue1 = '#0072BB';
+export const blue2 = '#1E91D6';
+export const orange = '#CA3C25';
+export const green1 = '#87E752';
+export const green2 = '#35FF69';
+export const black = '#424242';
+export const red = '#ED474A';
+export const yellow = '#F7FF58';
+export const white = '#E2EFDE';
+export const bup = '#1C77C3';
+export const wback = '#FFFFFF';
